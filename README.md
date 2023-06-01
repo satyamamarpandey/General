@@ -32,10 +32,10 @@ To use the Weather Forecasting Tool, follow these steps:
 1. Open a terminal or command prompt.
 
 2. Navigate to the project directory:
-cd weather-forecasting-tool
+cd Weather Forecasting Tool
 
 3. Run the script:
-python weather_forecast.py
+python Weather Forecasting Tool.py
 
 Follow the prompts to enter the country, state (if applicable), and city.
 The tool will fetch the current weather forecast for the specified location and display the temperature, humidity, and weather conditions.
