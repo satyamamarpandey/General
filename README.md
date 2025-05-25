@@ -1,119 +1,114 @@
 # 👋 Hi, I'm Satyam Pandey!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square\&logo=Linkedin\&logoColor=white\&link=https://www.linkedin.com/in/pandeysatyam)](https://www.linkedin.com/in/pandeysatyam)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Website-blue?style=flat-square\&logo=google-chrome)](https://www.pandeysatyam.com)
-[![Email Badge](https://img.shields.io/badge/Email-7satyampandey@gmail.com-red?style=flat-square\&logo=gmail\&logoColor=white)](mailto:7satyampandey@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square\&logo=Linkedin\&logoColor=white)](https://www.linkedin.com/in/pandeysatyam)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=flat-square\&logo=google-chrome)](https://www.pandeysatyam.com)
+[![Email](https://img.shields.io/badge/Email-7satyampandey@gmail.com-red?style=flat-square\&logo=gmail\&logoColor=white)](mailto:satyamamarpandey@gmail.com)
 
-## 🚀 About Me
+## 🚀 Who Am I?
 
-I'm a passionate **Senior Quantitative Analyst** with deep expertise in **Data Science, Machine Learning, AI-driven Predictive Analytics, and Quantitative Modeling**. I specialize in leveraging data to build intelligent, scalable solutions that drive strategic decision-making and operational efficiency.
+I'm a passionate **Senior Quantitative Analyst** dedicated to transforming complex data into powerful insights using **Data Science, Machine Learning, and AI-driven solutions**. My focus is creating innovative, scalable analytics solutions that enhance decision-making and optimize performance.
 
-🌟 **Currently**, I'm building predictive models and data pipelines at **Exelon**, helping shape impactful strategies and enhance affordability solutions.
+🌟 **Currently**, I'm crafting predictive models and sophisticated data pipelines at **Exelon**, directly impacting strategic business decisions and improving operational efficiencies.
 
-🔭 **Always looking to collaborate on**:
+🔭 **I’d love to collaborate on**:
 
-* Machine Learning & AI Innovations
-* Quantitative Modeling & Predictive Analytics
-* Cloud-based Data Engineering
+* Cutting-edge AI and Machine Learning Innovations
+* Predictive Analytics and Quantitative Modeling
+* Scalable Cloud-based Data Engineering Solutions
 
 ---
 
-## 💡 Core Skills & Technologies
+## 💡 Technical Proficiencies
 
-* **Programming Languages & Databases**:
-  ![Python](https://img.shields.io/badge/-Python-yellow?logo=python)
-  ![R](https://img.shields.io/badge/-R-blue?logo=r)
-  ![Java](https://img.shields.io/badge/-Java-red?logo=java)
-  ![SQL](https://img.shields.io/badge/-SQL-blue?logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb)
+* 🚩 **Languages & Databases**:
 
-* **Frameworks & Tools**:
-  ![NumPy](https://img.shields.io/badge/-NumPy-blue?logo=numpy)
-  ![Pandas](https://img.shields.io/badge/-Pandas-blueviolet?logo=pandas)
-  ![Scikit-Learn](https://img.shields.io/badge/-Scikit--learn-orange?logo=scikit-learn)
-  ![Tableau](https://img.shields.io/badge/-Tableau-blue?logo=tableau)
-  ![Power BI](https://img.shields.io/badge/-PowerBI-yellow?logo=powerbi)
+  * Python | R | Java | SQL | MongoDB | PostgreSQL
 
-* **Cloud & DevOps**:
-  ![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazon-aws)
-  ![Azure](https://img.shields.io/badge/-Azure-blue?logo=microsoft-azure)
-  ![GCP](https://img.shields.io/badge/-GCP-red?logo=google-cloud)
-  ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker)
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?logo=kubernetes)
+* 🛠 **Frameworks & Libraries**:
+
+  * NumPy | Pandas | Scikit-Learn | TensorFlow | Tableau | Power BI
+
+* ☁️ **Cloud & DevOps**:
+
+  * AWS | Azure | GCP | Docker | Kubernetes | GitHub Actions
+
+* 🧑‍💻 **Advanced Analytics & Techniques**:
+
+  * Machine Learning | Deep Learning | Predictive Modeling | Quantitative Analysis | ETL Pipelines
 
 ---
 
 ## 🎖️ Achievements & Certifications
 
-* 🏆 **Great Employee Award** at ZS Associates
+* 🏆 Awarded **Great Employee** at ZS Associates
 * 🎓 **Academic Scholarship**, NJIT
-* 📜 **Data Science Certification** from Harvard
+* 📜 Certified in **Data Science (Harvard)**
 * ☁️ **AWS Certified Cloud Practitioner**
-* 🚀 **Machine Learning Certifications** from Google & Meta
-* 💼 **Technology Consulting Internship**, PwC
-* 🏦 **Investment Banking Internship**, JP Morgan
+* 🤖 Certified in **Machine Learning** by Google & Meta
+* 💼 Internship in **Technology Consulting** at PwC
+* 🏦 Internship in **Investment Banking** at JP Morgan
 
 ---
 
-## 🔥 Professional Experience
+## 🔥 Professional Journey
 
 ### 📊 **Senior Quantitative Analyst** @ Exelon *(Philadelphia, USA)*
 
 📅 *Jan 2024 – Present*
 
-* ✅ Built predictive models improving energy affordability forecasting by **7%**.
-* ✅ Developed AI scenario analyses, enhancing strategic planning by **5%**.
-* ✅ Engineered data pipelines reducing operational costs by **2%**.
+* 📈 Enhanced energy affordability forecasts by **7%**, creating impactful predictive models.
+* 🚀 Streamlined strategic planning through AI-driven scenario analysis, improving accuracy by **5%**.
+* 💡 Engineered advanced data pipelines, reducing operational costs significantly.
 
 ### 💻 **Data Scientist - Machine Learning Engineer** @ NJIT-NSF *(Newark, USA)*
 
 📅 *Jan 2023 – Jan 2024*
 
-* ✅ Improved drug compound prediction accuracy by **45%** with ML & React-based platforms.
-* ✅ Reduced pharmaceutical production costs by **38%** through innovative ML solutions.
+* ⚡ Boosted drug prediction accuracy by **45%** using integrated ML models and frontend solutions.
+* 💊 Reduced pharmaceutical manufacturing costs by **38%** through cutting-edge machine learning methodologies.
 
 ### 🌐 **Cloud Application Engineer** @ ZS Associates *(Pune, India)*
 
 📅 *Sep 2019 – Jul 2022*
 
-* ✅ Optimized dashboards, enhancing rendering speeds by **30%**.
-* ✅ Saved \~\$2M using AWS cost analysis and ML forecasting models.
+* 📊 Optimized data visualization dashboards, achieving a rendering speed improvement of **30%**.
+* 💰 Delivered cost savings of \~\$2M through AWS cost analysis and predictive modeling.
 
 ### 🛠️ **Software Engineer** @ The Tech Inc *(Nagpur, India)*
 
 📅 *May 2018 – Aug 2019*
 
-* ✅ Boosted platform bookings by **30%** through UI/UX enhancements.
+* 📈 Increased travel platform engagement and bookings by **30%** through enhanced UI/UX and targeted SEO.
 
 ---
 
-## 📚 Education
+## 🎓 Academic Background
 
-* **Master of Science, Computer Science** *(NJIT, USA; GPA: 3.90/4.00)*
-* **Bachelor of Engineering, Information Technology** *(RCOEM, India; GPA: 3.12/4.00)*
-
----
-
-## 🚩 Highlighted Projects
-
-* 🤖 **Path-Finder AI**
-* 📧 **Mail-Stream**
-* 🗨️ **Verizon AI Chatbot**
-* 🔬 **Drug Discovery Models**
-* 🌐 **E-commerce Platform & Web Scraping Solutions**
+* 🎓 **Master of Science in Computer Science**, NJIT *(GPA: 3.90/4.00)*
+* 🎓 **Bachelor of Engineering in Information Technology**, RCOEM *(GPA: 3.12/4.00)*
 
 ---
 
-## 🥇 Other Highlights
+## 🚀 Featured Projects
 
-* 🚀 **Startup Success**: Founded *Backstreet Books*, connecting students with affordable resources.
-* ⚽ **Team Excellence**: Three-time Best Player Award, showcasing leadership and teamwork.
-* 💡 **Leadership & Mentorship**: Best Student in Investment & Trading, leading teams of 35+ in innovative events.
+* 🤖 [**Path-Finder AI**](https://pathfinderai-1e061905d74e.herokuapp.com/signup)
+* 📧 [**Mail-Stream**](https://mail-stream-b05f3ae2a613.herokuapp.com/)
+* 📱 [**Verizon AI Chatbot**](https://docs.google.com/document/d/17omZy8PFuXFqBKNK7ive3taQlpIZFG5WgJRq4YjfqaE/edit?tab=t.0)
+* 🧠 [**CyberPsychology Analysis**](https://github.com/satyamamarpandey/General/blob/main/Social%20Media%20Analysis%20and%20Cyberpsychology%20Report.pdf)
+* 🛍️ [**E-commerce Website**](https://www.youtube.com/watch?v=I-QWSs5p2l4)
+* 📈 [**Data Visualization & Insights**](https://colab.research.google.com/drive/1aE6zYUUe4yQGM6EEP82FBJlPXFjnT7P8)
 
 ---
 
-## 🌟 Let's Connect!
+## 🎯 Beyond Work
 
-I'm always excited to meet new people and discuss innovative ideas. Connect with me on [LinkedIn](https://www.linkedin.com/in/pandeysatyam), or drop me an email at [7satyampandey@gmail.com](mailto:7satyampandey@gmail.com).
+* 🚀 **Startup Founder**: Built *Backstreet Books* connecting students with affordable academic resources.
+* ⚽ **Team Excellence**: Recognized three times as Best Player for demonstrating teamwork, strategy, and leadership.
+* 🌟 **Leadership & Mentorship**: Best Student Award in Investment & Trading, leading teams of over 35 in dynamic workshops.
 
-⭐ Happy Coding! 🚀✨
+---
+
+## 🌟 Let's Connect & Innovate Together!
+
+Always excited to discuss data science, AI trends, and innovative tech solutions. Connect with me via [LinkedIn](https://www.linkedin.com/in/pandeysatyam) or drop a message at [satyamamarpandey@gmail.com](mailto:satyamamarpandey@gmail.com).
+
